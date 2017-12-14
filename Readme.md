@@ -4,4 +4,6 @@ How do the parameters μ and σ affect the shape of a psychometric curve we want
 
 Simple jupyter notebook running some ``julia`` code.
 
-ds - 2017-12-14 
+![](display.png)
+
+ds - 2017-12-14
